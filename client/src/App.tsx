@@ -8,9 +8,9 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-      <div className="roots"> </div>
-    </>
+    <div className='roots'>
+      <h1 className='Title'> Welcome to the page! </h1>
+    </div>
   )
 }
 
